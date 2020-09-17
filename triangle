@@ -1,6 +1,6 @@
-package day_2_printing_comments;
+package day_2;
 
-public class triangle {
+public class Question2 {
 
 	public static void main(String[] args) {
 		
