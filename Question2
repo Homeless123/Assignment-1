@@ -1,0 +1,8 @@
+System.out.println("Turing\bAlan");
+		System.out.println("Boo\r,Jose");
+		/*what is the different between \r and 
+		 
+		 */
+		System.out.println("Turing's\nson");
+		System.out.println("I\t"+"\btryto understand");
+	}
