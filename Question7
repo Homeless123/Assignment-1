@@ -1,0 +1,7 @@
+System.out.print(" /");
+System.out.println("\\");
+System.out.print("/");System.out.print("__");System.out.print("\\\n");
+System.out.println("I' from"+" Jamaica");
+System.out.println("How is your day going on,"+"'good' or "+"'bad'");
+
+
